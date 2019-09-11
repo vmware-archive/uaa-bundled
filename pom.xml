@@ -72,7 +72,7 @@
 						<artifactItem>
 							<groupId>org.cloudfoundry.identity</groupId>
 							<artifactId>cloudfoundry-identity-uaa</artifactId>
-							<version>4.27.0</version>
+							<version>4.30.0</version>
 							<type>war</type>
 							<overWrite>true</overWrite>
 							<outputDirectory>${project.basedir}/src/main/resources</outputDirectory>
